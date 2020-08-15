@@ -10,4 +10,4 @@ No momento estou finalizando projeto e pretendo passar o CSS para SASS e modific
 
 #### Imgens do projeto
 
-![Tela inicial](imagens/readme-img/home.jpg)
+![Tela inicial](/images/readme-img/Home.jpg)
