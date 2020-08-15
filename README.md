@@ -20,4 +20,4 @@ Tela de professores
 
 Tela do formulário de cadastro
 
-![Tela inicial](/images/readme-img/Formulário.jpg)
+![Tela inicial](/images/readme-img/Formulario.jpg)
