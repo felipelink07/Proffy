@@ -12,7 +12,7 @@ No momento estou finalizando projeto e pretendo passar o CSS para SASS e modific
 
 Imagem da tela inicial da plataforma construida.
 
-![Tela inicial](/images/readme-img/home.jpg)
+![Tela inicial](/images/readme-img/Home.jpg)
 
 Tela de professores
 
