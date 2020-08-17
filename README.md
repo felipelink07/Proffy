@@ -2,7 +2,7 @@
 
 ### Sobre
 Projeto desenvolvido durante o bootcamp da [**Rockseat**](https://rocketseat.com.br/). 
-Neste projeto desenvolvemos durante cinco dias juntos aos professores a interface <b>Proffy</b>, que seria uma plataforma para professores e alunos. Foram desenvolvidos penas poucas telas de como a **Home**, **Cadastro** e **Listagem de professores**. Neste projeto utilizei HTML, CSS e Javascript.
+Neste projeto desenvolvemos durante cinco dias juntos aos professores a interface <b>Proffy</b>, que seria uma plataforma para professores e alunos. Foram desenvolvidos poucas telas de como a **Home**, **Cadastro** e **Listagem de professores**. Neste projeto utilizei HTML, CSS e Javascript.
 
 #### Minhas modificações
 
