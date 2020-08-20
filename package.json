@@ -1,0 +1,23 @@
+{
+  "name": "Proffy",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido durante o bootcamp da [Rockseat](https://rocketseat.com.br/). \r Neste projeto acompanhamos durante os cinco dias de bootcamp o desenvolvemos junto aos professores da interface <b>Proffy</b> de curso para professores e alunos, com telas de cadastro e escolha de professores. Neste projeto usamos HTML, CSS e Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipelink07/Proffy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipelink07/Proffy/issues"
+  },
+  "homepage": "https://github.com/felipelink07/Proffy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
