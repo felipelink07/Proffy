@@ -14,12 +14,12 @@ No momento estou finalizando projeto e pretendo passar o CSS para SASS e modific
 
 Imagem da tela inicial da plataforma construída.
 
-![Tela inicial](/images/readme-img/Home.jpg)
+![Tela inicial](/public/images/readme-img/home.jpg)
 
 Tela de professores
 
-![Tela inicial](/images/readme-img/Listagem.jpg)
+![Tela inicial](public/images/readme-img/listagem.jpg)
 
 Tela do formulário de cadastro
 
-![Tela inicial](/images/readme-img/Formulario.jpg)
+![Tela inicial](public/images/readme-img/formulario.jpg)
